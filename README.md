@@ -4,8 +4,8 @@ Download FLAG.ZIP
 
 MINT : https://inspip.com/create-unique-art
 
-ID : X = FLAG_ X
+ID : 'X'
 
-How to check if it has been minted first : https://inspip.com/art/flag
+How to check if 'X' has been minted first : https://inspip.com/art/flag
 
 Just enjoy
